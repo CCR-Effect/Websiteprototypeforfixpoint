@@ -9,7 +9,7 @@ import { AnimatedSection } from '../components/AnimatedSection';
 import { StaggerContainer, StaggerItem } from '../components/StaggerContainer';
 import { ParallaxSection } from '../components/ParallaxSection';
 import { Logo } from '../components/Logo';
-import founderImage from 'figma:asset/ef450b59398656a253c0010e72f7baf344180618.png';
+import founderImage from '../assets/orlando.png';
 
 export function AboutUs() {
   const values = [

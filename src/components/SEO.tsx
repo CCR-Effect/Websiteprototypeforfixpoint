@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import logoIcon from 'figma:asset/1a599f7ab310c53f344132ca67d7708e7da4846f.png';
+import logoIcon from '../assets/logoIcon.png';
 
 interface SEOProps {
   title: string;

@@ -1,6 +1,6 @@
-import logoFull from 'figma:asset/0fc4f112dbc890aa6b35d4d21754882b3bca2731.png';
-import logoIcon from 'figma:asset/1a599f7ab310c53f344132ca67d7708e7da4846f.png';
-import logoIconLight from 'figma:asset/a0aa549b8f741af11d1c37de4556e65bbbd149b0.png';
+import logoFull from '../assets/logofullcolor.png';
+import logoIcon from '../assets/logoIcon.png';
+import logoIconLight from '../assets/logoIconLight.png';
 
 interface LogoProps {
   variant?: 'default' | 'white' | 'icon-only';

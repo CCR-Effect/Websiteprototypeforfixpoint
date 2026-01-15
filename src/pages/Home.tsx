@@ -33,10 +33,10 @@ import { ImageWithFallback } from "../components/figma/ImageWithFallback";
 import { MouseParallax3D } from "../components/MouseParallax3D";
 import { FloatingElement } from "../components/FloatingElement";
 import { ScrollParallaxLayer } from "../components/ScrollParallaxLayer";
-import irsEfileLogo from "figma:asset/765cc8a83c82c81e9c6c124faccdafecabb58196.png";
-import quickbooksLogo from "figma:asset/73fa46f61547f3c90bf32367fe12d9f496a1447e.png";
-import zohoBooksLogo from "figma:asset/9d7a490d0a0dc0e1c4e5c637f84ef3c9a2b92444.png";
-import waveLogo from "figma:asset/d4d6c5cde7788a6458b31023de72d726526a1a8e.png";
+import irsEfileLogo from "../assets/irsFile.png";
+import quickbooksLogo from "../assets/quickBooks.png";
+import zohoBooksLogo from "../assets/zohoBooks.png";
+import waveLogo from "../assets/wave.png";
 import logoIcon from "figma:asset/1a599f7ab310c53f344132ca67d7708e7da4846f.png";
 
 export function Home() {

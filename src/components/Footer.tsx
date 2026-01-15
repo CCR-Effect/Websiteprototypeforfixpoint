@@ -1,7 +1,7 @@
 import { Link } from 'react-router';
 import { Mail, Phone, MapPin, Linkedin, Twitter, Facebook } from 'lucide-react';
 import { motion } from 'motion/react';
-import logoFooter from 'figma:asset/c901ed103d53e915699e209a5a4e58b91e4c98ad.png';
+import logoFooter from '../assets/logoFullLight.png';
 
 export function Footer() {
   const currentYear = new Date().getFullYear();

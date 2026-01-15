@@ -4,7 +4,7 @@ import { Menu, X, Globe } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 import { Button } from './ui/button';
 import { Logo } from './Logo';
-import logoFull from 'figma:asset/0fc4f112dbc890aa6b35d4d21754882b3bca2731.png';
+import logoFull from '../asset/logofullcolor.png';
 
 export function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
